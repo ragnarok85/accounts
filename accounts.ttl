@@ -1,0 +1,6 @@
+
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix databus: <https://databus.dbpedia.org/> .
+
+
+<http://kurzum.net/webid.ttl#this> foaf:account databus:kurzum .
