@@ -4,3 +4,4 @@
 
 
 <http://kurzum.net/webid.ttl#this> foaf:account databus:kurzum .
+<https://webid.dbpedia.org/webid.ttl#this> foaf:account databus:dbpedia .
