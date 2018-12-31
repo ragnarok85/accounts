@@ -1,4 +1,4 @@
-# accounts
+# Accounts
 Databus User Accounts
 
 ## How to get an account
