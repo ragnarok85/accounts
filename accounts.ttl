@@ -10,3 +10,4 @@
 <https://yum-yab.github.io/webid.ttl#this> foaf:account databus:denis .
 <https://jj-author.github.io/webid.ttl#this> foaf:account databus:jj-author .
 <https://webid.dbpedia.org/webid.ttl#this> foaf:account databus:dbpedia .
+<http://aksw.org/JohannesFrey> foaf:account databus:jfrey .
