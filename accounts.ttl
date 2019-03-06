@@ -9,6 +9,6 @@
 <https://yum-yab.github.io/webid.ttl#this> foaf:account databus:denis .
 <https://jj-author.github.io/webid.ttl#this> foaf:account databus:jj-author .
 # <http://kurzum.net/webid.ttl#this> foaf:account databus:kurzum .
-#<https://webid.dbpedia.org/webid.ttl#this> foaf:account databus:dbpedia .
+<https://webid.dbpedia.org/webid.ttl#this> foaf:account databus:dbpedia .
 #<http://aksw.org/JohannesFrey> foaf:account databus:jfrey .
-#<https://natanael.arndt.xyz/#i> foaf:account databus:white_gecko .
+<https://natanael.arndt.xyz/#i> foaf:account databus:white_gecko .
