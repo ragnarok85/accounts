@@ -4,7 +4,7 @@
 
 <https://holycrab13.github.io/webid.ttl#this> foaf:account databus:jan .
 <https://vehnem.github.io/webid.ttl#this> foaf:account databus:marvin .
-# <https://eisenbahnplatte.github.io/webid.ttl#this> foaf:account databus:fabian .
+<https://eisenbahnplatte.github.io/webid.ttl#this> foaf:account databus:fabian .
 <https://neradis.github.io/webid.ttl#this> foaf:account databus:mack .
 <https://yum-yab.github.io/webid.ttl#this> foaf:account databus:denis .
 <https://jj-author.github.io/webid.ttl#this> foaf:account databus:jj-author .
