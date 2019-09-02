@@ -16,3 +16,4 @@
 <http://www.openlinksw.com/data/turtle/openlink.ttl#this> foaf:account databus:openlink .
 <https://lewoniewski.info/webid.ttl#this> foaf:account databus:lewoniewski . 
 <https://webid.dbpedia.org/webid.ttl#test> foaf:account databus:databus_test . 
+<https://sven-h.github.io/webid.ttl#this> foaf:account databus:sven-h . 
