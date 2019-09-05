@@ -1,20 +1,16 @@
-
-@prefix foaf: <http://xmlns.com/foaf/0.1/>.
-@prefix databus: <https://databus.dbpedia.org/> .
-
-<https://holycrab13.github.io/webid.ttl#this> foaf:account databus:jan .
-<https://vehnem.github.io/webid.ttl#this> foaf:account databus:marvin .
-<https://eisenbahnplatte.github.io/webid.ttl#this> foaf:account databus:fabian .
-<https://neradis.github.io/webid.ttl#this> foaf:account databus:mack .
-<https://yum-yab.github.io/webid.ttl#this> foaf:account databus:denis .
-<https://jj-author.github.io/webid.ttl#this> foaf:account databus:jj-author .
-<https://kurzum.github.io/webid.ttl#this> foaf:account databus:kurzum .
-<https://webid.dbpedia.org/webid.ttl#this> foaf:account databus:dbpedia .
-<http://aksw.org/JohannesFrey> foaf:account databus:jfrey .
-<https://natanael.arndt.xyz/#i> foaf:account databus:white_gecko .
-<https://propi.github.io/webid.ttl#this> foaf:account databus:propan .
-<http://www.openlinksw.com/data/turtle/openlink.ttl#this> foaf:account databus:openlink .
-<https://lewoniewski.info/webid.ttl#this> foaf:account databus:lewoniewski . 
-<https://webid.dbpedia.org/webid.ttl#test> foaf:account databus:databus_test . 
-<https://sven-h.github.io/webid.ttl#this> foaf:account databus:sven-h . 
-<https://nheist.github.io/webid.ttl#this> foaf:account databus:nheist . 
+<http://aksw.org/JohannesFrey> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/jfrey> .
+<https://eisenbahnplatte.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/fabian> .
+<https://holycrab13.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/jan> .
+<https://jj-author.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/jj-author> .
+<https://kurzum.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/kurzum> .
+<https://lewoniewski.info/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/lewoniewski> .
+<https://natanael.arndt.xyz/#i> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/white_gecko> .
+<https://neradis.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/mack> .
+<https://nheist.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/nheist> .
+<https://propi.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/propan> .
+<https://sven-h.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/sven-h> .
+<https://vehnem.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/marvin> .
+<https://webid.dbpedia.org/webid.ttl#test> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/databus_test> .
+<https://webid.dbpedia.org/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/dbpedia> .
+<https://yum-yab.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/denis> .
+<http://www.openlinksw.com/data/turtle/openlink.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/openlink> .
