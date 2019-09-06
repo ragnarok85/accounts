@@ -8,6 +8,6 @@ Step 2: Choose an account name that has not been given https://github.com/dbpedi
 
 Step 3: Send a pull request here to add the following line to the accounts.ttl:
 
-`<https://YOURWEBID.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/YOURACCOUNTNAME> `
+`<https://YOURWEBID.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/YOURACCOUNTNAME> . `
 
 Alternative: post your webid and account name as an issue. 
