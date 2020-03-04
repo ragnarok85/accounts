@@ -15,3 +15,4 @@
 <https://webid.dbpedia.org/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/dbpedia> .
 <https://yum-yab.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/denis> .
 <http://www.openlinksw.com/data/turtle/openlink.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/openlink> .
+<https://ragnarok85.github.io/webid.ttl#this> <http://xmlns.com/foaf/0.1/account> <https://databus.dbpedia.org/julio-n> .
